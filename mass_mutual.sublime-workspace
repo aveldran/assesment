@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"compon",
+				"components"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"video",
+				"videoAnalytics"
+			],
+			[
+				"vide",
+				"videoAnalytics"
+			],
+			[
+				"get",
+				"getFinishes"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"componen",
+				"componentDidMount"
+			],
+			[
+				"fe",
+				"fetchDetails"
+			],
+			[
+				"act",
+				"activeFilters"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"vi",
+				"videoId"
+			],
+			[
+				"i",
+				"ife\tif … else"
+			],
+			[
+				"a",
+				"activeFilters"
+			],
+			[
+				"gea",
+				"generateColumns"
+			],
+			[
+				"ac",
+				"activeFilters"
+			],
+			[
+				"o",
+				"onClick"
+			],
+			[
+				"f",
+				"filters"
+			],
+			[
+				"T",
+				"TOTAL_PLAYS"
+			],
+			[
+				"TO",
+				"TOTAL_PLAYS_SUFFIX"
+			],
+			[
+				"tot",
+				"totalPlays"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"c",
+				"currentVideo"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"cu",
+				"CURRENT_VIDEO"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pl",
+				"PLAYBACK_FILTERS"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"de",
+				"defaultVideoId"
+			],
+			[
+				"in",
+				"initialState"
+			],
+			[
+				"ge",
+				"getState"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"t",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"class",
+				"className"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrew/Development/mass_mutual/react-assessment-master"
+	],
+	"file_history":
+	[
+		"/Users/andrew/Development/mass_mutual/react-assessment-master/index.html",
+		"/Users/andrew/Development/mass_mutual/react-assessment-master/script.js",
+		"/Users/andrew/Development/vimeo/src/App.js",
+		"/Users/andrew/Development/vimeo/src/analytics/reducers.js",
+		"/Users/andrew/Development/vimeo/src/analytics/initialState.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/Table/Table.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/Table/Table.bkup.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/Table/ColumnHeader.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/Table/index.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/PlaybackFilter/PlaybackFilter.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/PlaybackFilter/index.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/index.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/ColumnHeader.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/table/AnalyticsTable.js",
+		"/Users/andrew/Development/vimeo/src/analytics/models/index.js",
+		"/Users/andrew/Development/vimeo/src/analytics/models/AnalyticsTableModel.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/table/columnsGenerator.js",
+		"/Users/andrew/Development/vimeo/src/analytics/columns.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/table/index.js",
+		"/Users/andrew/Development/vimeo/src/analytics/actionCreators.js",
+		"/Users/andrew/Development/vimeo/src/analytics/components/Table.js",
+		"/Users/andrew/Development/vimeo/src/analytics/formatters/table/columns/index.js",
+		"/Users/andrew/Development/vimeo/src/components/ErrorBoundary.js",
+		"/Users/andrew/Development/vimeo/src/analytics/formatters/table/columns/analyticsColumn.js",
+		"/Users/andrew/Development/vimeo/src/components/button.js",
+		"/Users/andrew/Development/vimeo/src/components/header.js",
+		"/Users/andrew/Development/vimeo/src/store.js",
+		"/Users/andrew/Development/vimeo/src/index.js",
+		"/Users/andrew/Development/vimeo/src/analytics/playbackFilter.js",
+		"/Users/andrew/Development/vimeo/src/constants.js",
+		"/Users/andrew/Development/vimeo/src/components/table/index.js",
+		"/Users/andrew/Development/vimeo/src/components/table/columnHeader.js",
+		"/Users/andrew/Development/vimeo/package.json",
+		"/Users/andrew/Development/vimeo/src/analytics/filters.js",
+		"/Users/andrew/Development/vimeo/src/AnalyticsReducers.js",
+		"/Users/andrew/Development/vimeo/README.md",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/footer/index.js",
+		"/Users/andrew/Development/vytis_tours/fe/js/tours/day/index.js",
+		"/Users/andrew/Development/vytis_tours/fe/js/index.js",
+		"/Users/andrew/Development/vytis_tours/fe/js/tours/day/day-tours.html",
+		"/Users/andrew/Development/vytis_tours/gulpfile.js",
+		"/Users/andrew/Development/vytis_tours/be/index.js",
+		"/Users/andrew/Development/vytis_tours/fe/about-us.html",
+		"/Users/andrew/Development/vytis_tours/fe/js/about.js",
+		"/Users/andrew/Development/vytis_tours/be/about/index.js",
+		"/Users/andrew/Development/vytis_tours/fe/index.html",
+		"/Users/andrew/Development/vytis_tours/be/tours/day/index.js",
+		"/Users/andrew/Development/vytis_tours/constants.js",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/card/index.js",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/card/index.css",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/slider/index.css",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/footer/index.css",
+		"/Users/andrew/Development/vytis_tours/fe/js/home.js",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/navigation/index.js",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/navigation/index.css",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/slider/index.js",
+		"/Users/andrew/Development/vytis_tours/fe/css/component.css",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/index.js",
+		"/Users/andrew/Development/vytis_tours/fe/css/main.css",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/Slider/index.js",
+		"/Users/andrew/Development/vytis_tours/package.json",
+		"/Users/andrew/Development/vytis_tours/node_modules/babel-runtime/helpers/asyncGenerator.js",
+		"/Users/andrew/Downloads/uikit-3.0.0-rc.10 (1)/css/uikit.min.css",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/logo/index.js",
+		"/Users/andrew/Development/vytis_tours/fe/js/components/index.jsx",
+		"/Users/andrew/Development/maven_project/my-app/pom.xml"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mass_mutual.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
